@@ -1,0 +1,10 @@
+python-dotenv
+sqlalchemy
+psycopg2-binary
+httpx
+beautifulsoup4
+lxml
+feedparser
+pytrends
+praw
+
